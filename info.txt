@@ -1,1 +1,1 @@
-If you are running game.out or gamenew.out, use keybinds.txt or keybindsp.txt, repectively.
+...why would you think there'd be information here?
